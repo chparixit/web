@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: #1d3557;
+ }
+ 
+ .boxx{
+    height: 200px;
+    width: 200px;
+    background-image: url("cat1.gif");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: #1d3557; */
+    border-radius: 20px;
+    margin: auto;
+    
+ }
+ .main{
+    padding: 5vh 5vw;
+ }
+ 
+ .btn{
+    font-size: 20px;
+    background-color: #a8dadc;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px;
+    margin-top: 3vh;
+    margin-right: 10px;
+ }
+ .yes-text{
+    color: #ffb7ce;
+    font-size: 20px;
+    margin-top: 15px;
+    display: none;
+ }
